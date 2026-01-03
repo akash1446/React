@@ -1,0 +1,40 @@
+*{
+  background-color:yellow;  
+}
+.reg{
+    background-color: blueviolet;
+    height: 300px;
+    width: 90%;
+}
+input{
+  border-radius: 10px;
+  background: powderblue;
+}
+.form{
+  border: 1px solid blue;
+  padding: 10px;
+  text-align: center;
+  gap: 20px;
+  background-color:palevioletred;
+}
+button{
+  background-color: aquamarine;
+}
+
+.login{
+  border:2px solid gold;
+  padding: 20px;
+  text-align: center;
+  background-color: seagreen;
+}
+.btn{
+  background-color: crimson;
+}
+.input1{
+   background-color:wheat;
+   border-radius: 5px;
+}
+.input2{
+  background-color:wheat;
+  border-radius: 5px;
+}
