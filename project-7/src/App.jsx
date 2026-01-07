@@ -1,7 +1,7 @@
 import React from 'react'
 import DataFetcher from './component/DataFetcher'
-
-function App() {
+import './app.css'
+const App = () => {
   return (
     <DataFetcher/>
   )

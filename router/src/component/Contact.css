@@ -1,0 +1,52 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:indigo;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div .contactheading{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+}
+form .inform{
+    background-color: lightyellow;
+    padding: 20px;
+    border-radius: 16px;
+    width: 60%;
+    margin: auto;
+    font-size: 20px;
+}
+label{
+    font-weight: bolder;
+}
+input{
+    width: 60%;
+    height: 40px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    font-size: 15px;
+    padding-left: 10px;
+}
+textarea{
+    width: 60%;
+    height: 100px;
+    border-radius: 9px;
+    font-size: 12px;
+    padding: 9px;
+    margin-bottom: 15px;
+}
+button{
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: fuchsia;
+}

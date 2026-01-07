@@ -1,15 +1,17 @@
 body{
-  background-color: turquoise;
+  background-color:indigo;
 }
 button{
   background-color:rgb(255,255,2);
+  font-size: 20px;
+  text-align: center;
 }
 
 img{
   object-fit:cover;
   height: 50px;
   width: 50px;
-  border: 2px solid deeppink;
+  border: 2px solid indigo;
   padding: 2px;
   gap: 3px;
 }
