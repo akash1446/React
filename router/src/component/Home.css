@@ -4,28 +4,41 @@
     box-sizing: border-box;
 }
 body{
-    background-color: navy;
+    background-color: pink;
     font-family: Arial, Helvetica, sans-serif;
 }
-div .fivetropy {
-    color: yellow;
+div .fivetropy:hover {
+    color: #ffd505;
     margin-top: 20px;
     font-size: 20px;
 }
 div .fivetimes:hover {
-    color: lightblue;
+    color:#1f56e0;
 }
-div .twotimes{
-    color: orange;
+div .twotimes:hover{
+    color:#993300;
 }
-div .one{
-    color: pink;
+.title:hover{
+    color:#f757a2;
 }
-.no{
-    color:red;
+
+.no:hover{
+    color:#ff3034;
 }
 .one:hover{
-    color:indigo;
+    color:#302675;
+}
+.otc:hover{
+    color: #031017;
+}
+.nc:hover{
+    color:#0033ff;
+}
+.ot:hover{
+    color:#661737;
+}
+.nac:hover{
+    color: #1e428f;
 }
 .card{
     background-color: yellowgreen;
@@ -58,5 +71,5 @@ div .one{
 h1{
     text-align: center;
     margin-top: 20px;
-    color: darkmagenta;
+    color: black;
 }
