@@ -1,0 +1,29 @@
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 220px;
+  
+  color: white;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.menu-item {
+  padding: 10px 0;
+  cursor: pointer;
+  color: #b3b3b3;
+}
+
+.menu-item:hover {
+  color: white;
+}
